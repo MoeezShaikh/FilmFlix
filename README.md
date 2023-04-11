@@ -5,3 +5,9 @@ a list of top 5 search results comes that displays the title, poster, and year
 of each movie that matches the search query. Clicking on a movie in the search results
 should display a detailed view of the movie, including the plot, director, actors, and
 ratings.
+
+packages to be installed : 
+npm install react react-dom axios bootstrap react-bootstrap
+npm i  styled-components  --save
+
+Demo : https://filmflix-moeez-asg2.netlify.app/
